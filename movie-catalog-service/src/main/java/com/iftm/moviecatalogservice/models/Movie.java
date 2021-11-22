@@ -1,4 +1,4 @@
-package com.iftm.movieinfoservice.models;
+package com.iftm.moviecatalogservice.models;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

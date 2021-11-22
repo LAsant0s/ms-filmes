@@ -1,4 +1,4 @@
-package com.iftm.movieinfoservice.models;
+package com.iftm.moviecatalogservice.models;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -7,9 +7,7 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class Movie {
-
+public class Rating {
 	private String movieId;
-	private String name;
-	
+	private int rating;
 }
