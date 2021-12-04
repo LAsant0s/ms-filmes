@@ -10,7 +10,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 public class UserRating {
-
+	
 	private List<Rating> getUserRating;
 	
 }
